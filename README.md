@@ -1,1 +1,17 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marple-git&show_icons=true&theme=radical&count_private=true)
+### Welcome to my profile! ✌️
+![](https://i.imgur.com/2LykBPC.png)
+
+
+Skills: Python/Javascript/PHP/HTML/CSS/SQL
+
+- 🔭 I’m currently working on Telegram-Dice-Bot 
+- 🌱 I’m currently learning SQLAlchemy 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marple-git)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/marple_tech)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marple-git&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=marple-git)  
+
+![Profile views](https://gpvc.arturio.dev/marple-git)  
