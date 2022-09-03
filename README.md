@@ -2,10 +2,10 @@
 ![](https://i.imgur.com/2LykBPC.png)
 
 
-Skills: Python/Javascript/PHP/HTML/CSS/SQL
+Skills: Python/Javascript/PHP/HTML/CSS/SQL/NodeJS/Docker&Docker-Compose
 
 - 🔭 I’m currently working on pyonlinesim
-- 🌱 I’m currently learning FastAPI
+- 🌱 I’m currently learning React
 
   [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png' alt='telegram' height='40'>](https://t.me/marple_tech)  
 
